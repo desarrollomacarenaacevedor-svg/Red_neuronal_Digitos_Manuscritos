@@ -125,9 +125,6 @@ Técnico en Análisis de Datos
 Contador Auditor
 Estudiante de Ingeniería en Data Science
 
-LinkedIn: [Agregar enlace de LinkedIn]
-GitHub: [Agregar enlace de GitHub]
-
-Estado del proyecto
+##Estado del proyecto:
 
 Proyecto finalizado como trabajo académico y publicado como parte de mi portafolio profesional en Data Science.
