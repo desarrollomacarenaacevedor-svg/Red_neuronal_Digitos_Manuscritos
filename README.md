@@ -7,7 +7,7 @@ Este trabajo fue desarrollado como parte de mi formación en el área de Data Sc
 
 ____________________________________________________________________________________________________________________________________________________________
 
-##bjetivo
+##Objetivo
 
 Desarrollar un modelo de red neuronal artificial que permita clasificar imágenes de dígitos manuscritos, evaluando su rendimiento mediante métricas como la precisión y la pérdida del modelo.
 
